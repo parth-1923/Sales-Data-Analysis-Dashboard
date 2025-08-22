@@ -4,6 +4,7 @@ Analyzed sales data to uncover insights and create an interactive Excel dashboar
 Relationship between Sheets(Created using Power Pivot):
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/2a635f68-b1d9-4c3c-92ec-5cf93106638b" />
 Products - SalesOrders -> ProductID
+
 Customers - SalesOrders -> CustomerID
 
 Created Dashboard(Screenshot):
